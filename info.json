@@ -1,0 +1,209 @@
+{
+    "header": [
+        " *   ",
+        " *   如非需要调试，本文件可删除",
+        " *   非专业人员可将本文件删除",
+        " *   详细介绍请参考: https://bazhan.me/faq#INFO-JSON",
+        " *   "
+    ],
+    "resources": [
+        {
+            "url": "http://as9.cn/666/",
+            "path": "index.html",
+            "saved": true,
+            "size": 5284,
+            "children": [
+                {
+                    "url": "http://as9.cn/666/static/picture/act-done-happy.png",
+                    "path": "img/act-done-happy.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://as9.cn/666/static/picture/hat6.png",
+                    "path": "img/hat6.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://as9.cn/666/static/picture/hat0.png",
+                    "path": "img/hat0.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://as9.cn/666/static/picture/hat2.png",
+                    "path": "img/hat2.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://as9.cn/666/static/picture/hat3.png",
+                    "path": "img/hat3.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://as9.cn/666/static/picture/hat1.png",
+                    "path": "img/hat1.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://as9.cn/666/static/picture/hat4.png",
+                    "path": "img/hat4.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://as9.cn/666/static/picture/hat5.png",
+                    "path": "img/hat5.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://as9.cn/666/static/picture/hat7.png",
+                    "path": "img/hat7.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://as9.cn/666/static/js/fabric.min.js",
+                    "path": "js/fabric.min.js",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "http://as9.cn/666/static/css/strap.min.css",
+                    "path": "css/strap.min.css",
+                    "saved": true,
+                    "size": 10032,
+                    "children": [
+                        {
+                            "url": "http://as9.cn/666/static/image/20190829-bg.png",
+                            "path": "img/20190829-bg.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://as9.cn/666/static/image/20190906-logo2.png",
+                            "path": "img/20190906-logo2.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://as9.cn/666/static/image/20190906-logo3.png",
+                            "path": "img/20190906-logo3.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://as9.cn/666/static/image/20190829-btn.png",
+                            "path": "img/20190829-btn.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://as9.cn/666/static/image/btn1.png",
+                            "path": "img/btn1.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://as9.cn/666/static/image/save-btn.png",
+                            "path": "img/save-btn.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://as9.cn/666/static/image/btn3.png",
+                            "path": "img/btn3.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "http://as9.cn/666/static/image/20190829-longpress.svg",
+                            "path": "img/20190829-longpress.svg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "url": "https://www.163.com/favicon.ico",
+                    "path": "favicon.ico",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                }
+            ]
+        }
+    ],
+    "alias": "as9-cn-rtxjs8qi",
+    "info": {
+        "request": {
+            "headers": {
+                "accept": "text/html,*/*",
+                "accept-language": "zh-CN,zh;q=0.9",
+                "accept-encoding": "gzip",
+                "cache-control": "no-cache",
+                "cookie": "",
+                "referer": "http://as9.cn/666/static/css/strap.min.css",
+                "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+                "x-scraper-website": "https://bazhan.me/"
+            }
+        },
+        "response": {
+            "redirects": [],
+            "responseUrl": "http://as9.cn/666/",
+            "statusCode": 200,
+            "headers": {
+                "server": "nginx",
+                "date": "Tue, 28 Sep 2021 01:36:57 GMT",
+                "content-type": "text/html",
+                "last-modified": "Mon, 27 Sep 2021 14:34:15 GMT",
+                "transfer-encoding": "chunked",
+                "connection": "close",
+                "vary": "Accept-Encoding",
+                "etag": "W/\"6151d667-1612\""
+            }
+        },
+        "time": {
+            "start": "2021-09-28T01:36:56.573Z",
+            "end": "2021-09-28T01:37:56.338Z"
+        },
+        "remark": [],
+        "ip": "154.31.21.182",
+        "url": "http://as9.cn/666/",
+        "main": "index.html",
+        "domain": "as9.cn",
+        "origin": "http://as9.cn",
+        "totalSize": "15.3 kB"
+    },
+    "options": {
+        "formatter": [],
+        "url": "http://as9.cn/666/",
+        "referer": "",
+        "cookies": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+        "filenameGenerator": "byType"
+    }
+}
